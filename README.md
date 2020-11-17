@@ -3,6 +3,7 @@
 Some info:
 - studying at AGH
 - living in Krakow, Poland
+- homepage https://zarebajakub.github.io/
 
 <!--
 **zarebajakub/zarebajakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
